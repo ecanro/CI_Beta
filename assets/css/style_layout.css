@@ -1,0 +1,313 @@
+body{
+
+  background-color: 	#FFFFFF;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #918f8f;
+
+}
+
+nav a {
+
+font-size: 25px;
+color:	 	rgb(167, 24, 24);
+}
+
+nav a:hover{
+color:#4682B4;
+}
+
+.fa {
+
+color:	 	rgb(167, 24, 24);
+
+}
+
+h3, h4, h5{
+
+  color:	rgb(167, 24, 24);
+
+}
+
+h4{
+
+  font-size: 17px;
+}
+
+h5{
+
+  font-size: 15px;
+}
+
+.bottomSeparator{
+
+  border-bottom: 4px dotted  #CCCC99;
+}
+
+h2 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+table.dataTable th,
+table.dataTable td {
+  white-space: nowrap;
+}
+
+table.dataTable th{
+
+  text-align: center;
+}
+
+table.dataTable{
+  vertical-align: middle;
+  text-align: justify;
+}
+
+.table{
+
+  border: none;
+  
+}
+
+.table tr{
+
+cursor: pointer;
+
+}
+
+.table th{
+
+  color:	rgb(167, 24, 24);
+}
+
+.table td{
+
+  color:	rgb(82, 82, 82);
+
+}
+
+.btn{
+
+margin:.5%;
+}
+
+.buttonStyle{
+
+background-color:rgb(167, 24, 24);
+color:white;
+
+}
+
+.buttonStyle:hover{
+
+  background-color:rgb(219, 93, 89);
+  
+  }
+
+  .faButton{
+
+color:white;
+
+  }
+
+  .submoradas{
+
+padding-left:10px;
+
+  }
+
+  .modal-dialog {
+
+    padding-top:10%;
+  }
+  
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+  }
+  footer {
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+  }
+
+  .ftrbg{
+
+    background-color: rgb(167, 24, 24);
+    text-align: center;
+    padding-top:25px;
+
+  }
+
+  .gsFooter{
+
+    color:rgba(255, 255, 255, 0.966);
+  }
+
+  /*Header */
+
+  .redStripe{
+
+    background-color: rgb(167, 24, 24);
+    color:rgba(255, 250, 250, 0.966);
+  }
+
+  .lol{
+
+    margin-top:-40px;
+    font-size: 20px;
+  }
+
+  /* show if delete warnings*/
+
+  .showIfDelete{
+
+    justify-content: center;
+    text-align: center;
+
+  }
+
+  /*Upper Menu*/
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    background-color: rgb(167, 24, 24);
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+.backButton{
+  font-size: 25px;
+}
+
+.buttonStyleBack{
+  padding-bottom:5px;
+text-align:center;
+justify-content: center;
+background-color:none;
+border:none;
+font-size: 20px;
+}
+
+#tableNotas td:hover{
+
+  background-color: rgb(224, 195, 195);
+  color:white;
+
+}
+
+#tableNegocios td:hover{
+
+  background-color: rgb(224, 195, 195);
+  color:white;
+
+}
+
+#tableFicheiros td:hover{
+
+  background-color: rgb(224, 195, 195);
+  color:white;
+
+}
+
+#showIfDeleteNota{
+
+  justify-content: center;
+  text-align: center;
+
+}
+
+#createContactoModal {
+  top:-15%;
+  outline: none;
+
+  }
+
+  #editContactoModal {
+    top:-15%;
+    outline: none;
+  
+    }
+
+  #showContactosMessage{
+
+    justify-content: center;
+    text-align: center;
+  
+  }
+
+  #showMessageEditContacto{
+
+    justify-content: center;
+    text-align: center;
+  
+  }
+
+  .faloginImage{
+
+    padding-right:10px;
+    padding-left:10px;
+    font-size: 45px;
+    color:rgb(238, 238, 238);
+    background-color: rgb(167, 24, 24);
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-top:2px;
+
+  }
+
+
+
+  .loginBox{
+
+margin-top: 12%;
+margin-bottom: 10%;
+
+  }
+
+  #showLoginMessages{
+
+    justify-content: center;
+    text-align: center;
+
+  }
+
+  #createNegocioModal {
+    top:-15%;
+    outline: none;
+  
+    }
+
+    table.display tbody tr:hover td{
+      background-color: rgb(224, 195, 195) !important;
+  }

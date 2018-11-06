@@ -1,0 +1,319 @@
+
+
+  body {
+
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color:white;
+  }
+
+h2{
+
+    color:rgb(120, 120, 120);
+}
+
+td{
+    color:rgb(60, 60, 60);
+
+}
+
+.okok{
+
+color:lightgray;
+
+}
+
+form{
+
+     margin-top:10%;
+     margin-bottom:10%;
+
+}
+
+h3, p{
+
+    color:gray;
+}
+
+.container {
+    height: auto;
+}
+
+.teste{
+
+margin-top:100px;
+margin-bottom:100px;
+
+}
+
+.logo_img{
+
+width:50px;
+height:50px;
+
+}
+
+.navbarbg{
+
+    background-color:#EFEEEC;
+
+}
+
+.navbar li{
+
+    text-align: center;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+  }
+  footer {
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+  }
+
+  .ftrbg{
+
+    background-color: #f8f9fa;
+    text-align: center;
+    padding-top:25px;
+
+  }
+
+  .imgLOGO{
+
+width:200px;
+height:auto;
+
+  }
+
+  togglerCenter{
+
+align-content: center;
+text-align:center;
+
+  }
+  
+
+
+  /* header
+-------------------------------------------------- */
+
+.loginHeader{
+
+margin-bottom:-8%;
+margin-top:5%;
+
+}
+
+.loginHeader2{
+
+  margin-bottom:5%;
+  margin-top:7%;
+  
+  }
+
+.loginCenter{
+
+  margin-bottom:-3%;
+  margin-top:3%;
+
+}
+
+  /* BEM VINDO MESSAGE
+-------------------------------------------------- */
+
+.bemVindo{
+
+  font-size: 15px;
+
+}
+
+.nomeUtilizador{
+
+  font-size: 12px;
+
+}
+
+.loggedMessage{
+
+margin-top:5px;
+margin-bottom:5%;
+
+}
+
+  /* Menu
+-------------------------------------------------- */
+.imgMenu{
+
+  width: 100px;
+  height: 100px;
+  max-width: 100%;
+  max-height: 100%;
+  
+    }
+
+.center{
+
+text-align: center;
+color:rgba(192,192,192, 1);
+margin-bottom:100px;
+
+}
+
+.menuCenter{
+
+padding-top:5%;
+padding-bottom:5%;
+
+}
+
+.bg{
+
+  
+  padding-top:50px;
+  background-color:rgba(220,220,220, 0.5);
+  border-radius: 25px;
+  margin-top:15px;
+  margin-bottom:15px;
+  margin-right:5px;
+  margin-left:5px;
+  padding-bottom:50px;
+}
+
+ /* unvisited link */
+ a:link {
+  color:rgba(192,192,192, 1);
+}
+
+/* visited link */
+a:visited {
+  color:rgba(192,192,192, 1);
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color:rgba(128,128,128, 1);
+}
+
+/* selected link */
+a:active {
+  color:rgba(192,192,192, 1);
+} 
+
+
+/* H4 GERAL */
+
+
+
+h1{
+
+text-align: center;
+font-size: 20px;
+
+}
+
+.formregist{
+
+width:100%;
+align-content: center;
+
+}
+
+.registCenter{
+
+  padding-top:1%;
+  padding-bottom:1%;
+
+}
+
+
+
+.pointer tr{
+
+  cursor: pointer;
+
+}
+
+.errorMsg{
+
+  padding-bottom:5%;
+}
+
+/* Contactos */
+
+.contactosStyle{
+
+padding-top:25px;
+padding-bottom:25px;
+background-color:#EFEEEC;
+font-size: 24px;
+}
+
+.obsteste{
+
+text-align: center;
+width: 20px;
+height: 29px;
+margin-bottom:5%;
+
+}
+
+.centerAll{
+
+text-align:justify;
+margin-bottom:5%;
+margin-top:5%;
+
+}
+
+.removeLinkButon{
+
+text-decoration: none;
+
+}
+
+/* button_notas */
+
+.removeLinkButon{
+
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+
+}
+
+
+.lolol{
+
+  color:rgba(255, 0, 0, 0.945);
+}
+
+
+.pics{
+
+width: 450px;
+height: 300px;
+
+}
+
+.borderTable{
+
+margin:1%;
+
+}
